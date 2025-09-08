@@ -10,7 +10,7 @@ I’m a **Java and Python focused Software Engineer** with strong expertise in *
 - Learning and keeping up with the latest trends in software engineering  
 - Working with **LangGraph** and **MCP servers** for innovative projects  
 
-🤝 **Open to collaboration and questions** — feel free to reach out if you want to discuss, learn, or work together on projects related to **Java, Spring, Spring Boot, Microservices, Python, AI, LangGraph, or MCP servers**.  
+🤝 **Open to collaboration and questions** — feel free to reach out if you want to discuss, learn, or work together on projects related to **Java, Spring, Spring Boot, Microservices, Python, AI, LangGraph, or MCP servers**. 
 
 
 <!--
