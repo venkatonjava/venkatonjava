@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Venkatesh
 
-I’m a **Java and Python focused Software Engineer** with strong expertise in **Spring, Spring Boot, and Microservices**.  
+I’m a **Java and Python focused Software Engineer** with strong expertise in **Spring, Spring Boot, Microservices, Kafka and Spring AI**.  
 ☕ Passionate about **Java** as my core technology, building scalable and reliable applications.  
 🐍 Skilled in **Python**, currently exploring **AI, intelligent agents, LangGraph**, and **MCP servers**, while following the latest tech and AI advancements.  
 
